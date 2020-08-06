@@ -1,1 +1,1 @@
-# voting-initiative
+# Illinois Tech Voting Initiative
